@@ -7,8 +7,8 @@
 ---
 
 #### 🛠️ Tecnologías y Lenguajes
-* **Con experiencia:** [Lenguaje 1], [Lenguaje 2], [Base de Datos]
-* **Aprendiendo actualmente:** [Tecnología 1], [Tecnología 2]
+* **Con experiencia:** Java, Pyhton, Php, Html, css
+* **Aprendiendo actualmente:** c#, microsoft server, SQL, Azure
 
 ---
 
