@@ -1,11 +1,28 @@
 # ¡Hola! Soy Ernesto Velez Ortega 👋
 
 <p>
-  Soy un estudiante de 18 años de Ingeniería en Ciencias de la Computación en la BUAP, con un título de Técnico en Programación. Me apasiona construir proyectos y aprender nuevas tecnologías.
+  Soy un estudiante de 18 años, actualmente en 3er semestre de <strong>Ingeniería en Ciencias de la Computación</strong> en la BUAP y con un título de <strong>Técnico en Programación</strong> por el CECyTE.
 </p>
+
 <p>
-  Durante mi formación técnica, desarrollé varias aplicaciones web (usando PHP, JavaScript, HTML/CSS y bases de datos con XAMPP) para proyectos escolares. Esta experiencia me introdujo al desarrollo de software y despertó mi interés por el mundo del Backend.
+  Mi curiosidad por el código comenzó en la secundaria, escribiendo mis primeras líneas de HTML en un simple bloc de notas. Esta pasión me llevó a elegir mi carrera técnica, donde construí una base sólida en:
 </p>
+
+<ul>
+  <li>Programación Orientada a Objetos (POO).</li>
+  <li>Desarrollo de aplicaciones web (PHP, JavaScript, HTML/CSS y bases de datos con XAMPP).</li>
+  <li>Creación de interfaces gráficas con Python.</li>
+</ul>
+
+<p>
+  En la universidad (BUAP), he reforzado estos conocimientos, comenzando con programación básica en C, avanzando a POO con Java y Python, y actualmente profundizando en <strong>Estructuras de Datos</strong> con Java.
+</p>
+
+<p>
+  Toda esta trayectoria, desde ese primer bloc de notas hasta mis proyectos universitarios, ha confirmado mi interés principal: el mundo del <strong>Backend</strong> y el desarrollo de software robusto y escalable.
+</p>
+
+---
 
 ---
 
@@ -44,11 +61,3 @@ Me apasiona cómo funciona el software "detrás de cámaras". Mis principales á
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p>¡Aquí puedes ver mi actividad en la plataforma!</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
