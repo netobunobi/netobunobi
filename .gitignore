@@ -1,0 +1,10 @@
+# Ignorar base de datos (CRUCIAL)
+*.db
+taxis.db
+*.sqlite3
+
+# Ignorar archivos basura de Python
+__pycache__/
+*.py[cod]
+venv/
+.vscode/
