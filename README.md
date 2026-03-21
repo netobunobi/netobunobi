@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/66f6f9c9f0a4f5756461a20c/1344421b-8012-4f3b-85ca-17d47e8348a0/ernesto_gradient_header.png" alt="¡Hola! Soy Ernesto Velez Ortega 👋" width="600">
+  <img src="./header.gif" alt="¡Hola! Soy Ernesto Velez Ortega 👋" width="600">
 </p>
 
 ### 👨‍💻 Sobre Mí
