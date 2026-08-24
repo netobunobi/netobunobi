@@ -12,7 +12,7 @@
 
 Soy un desarrollador enfocado en crear software robusto, con un interés principal en el mundo del Backend.
 
-* 🎓 Estudiante de 4to semestre de **Ingeniería en Ciencias de la Computación** en la **BUAP**.
+* 🎓 Estudiante de 5to semestre de **Ingeniería en Ciencias de la Computación** en la **BUAP**.
 * 📜 **Técnico en Programación** egresado del CECyTE.
 
 <br><br>
