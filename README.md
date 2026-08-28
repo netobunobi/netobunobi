@@ -1,44 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5A189A&height=200&section=header&text=¡Hola!%20Soy%20Ernesto%20Velez%20Ortega%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050814,35:0b2545,70:4d194e,100:2b1055&height=180&text=Ernesto%20Velez%20Ortega&fontSize=38&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=Lógica%20•%20Backend%20•%20Servicios&descFontSize=18&descAlignY=66" width="100%" alt="Header Neón" />
 </div>
 
-<br>
+<p align="center">
+  <i>Estudiante de Ciencias de la Computación enfocado en entender cómo funcionan las cosas detrás de cámaras: lógica, estructuras de datos, servicios y matemáticas aplicadas.</i>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007BFF&height=50&text=👨‍💻%20Sobre%20Mí&fontSize=22&fontAlign=center&fontAlignY=65&fontColor=ffffff" alt="Sobre Mí" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Servicios-4d194e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entorno-Linux-0b2545?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Aprendiendo-050814?style=flat-square" />
+</p>
 
-<br>
+---
 
-Soy un desarrollador enfocado en crear software robusto, con un interés principal en el mundo del Backend.
+### 🧠 Filosofía & Enfoque
 
-* 🎓 Estudiante de 5to semestre de **Ingeniería en Ciencias de la Computación** en la **BUAP**.
-* 📜 **Técnico en Programación** egresado del CECyTE.
+* ⚙️ **Lógica sobre sintaxis:** Cómodo adaptándome a distintos lenguajes según el problema (Java, Python, C/C++, GDScript).
+* 🗄️ **Servicios y Datos:** Interés activo en el funcionamiento de servidores, redes, estructuras y arquitectura de software.
+* 🛠️ **Desarrollo Utilitario:** Me motiva crear herramientas funcionales que resuelvan problemas reales o expliquen conceptos complejos con modelos matemáticos y gráficos.
 
-<br><br>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=712CF9&height=50&text=🛠️%20Mi%20Stack%20de%20Tecnologías&fontSize=22&fontAlign=center&fontAlignY=65&fontColor=ffffff" alt="Stack" />
-</div>
+### 🧰 Caja de Herramientas
 
-<br>
-
-<div align="center">
+**Lenguajes & Lógica**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,mysql" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,godot&theme=dark" />
   </a>
-</div>
+</p>
 
-<br><br>
+**Bases de Datos & Entorno**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,linux,bash,git,github&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📌 Proyectos Destacados
+
+* ⚛️ **[SHOWLINK](https://github.com/netobunobi/SHOWLINK)** — Visualizador interactivo 3D de enlaces químicos y mallas semiconductoras con PyQt6 y OpenGL.
+* 🚕 **[taxis-zorro-manager](https://github.com/netobunobi/taxis-zorro-manager)** — Sistema de escritorio para administración de unidades, asignación visual de viajes y métricas.
+* 🎯 **[tracker](https://github.com/netobunobi/tracker)** — Demostración de captura de movimiento y datos vectoriales mediante principios matemáticos.
+* 🎮 **[Latency-FPS](https://github.com/netobunobi/Latency-FPS)** — Exploración en Godot con generación procedural destructible.
+* 🪪 **[credenciales_para_libreria](https://github.com/netobunobi/credenciales_para_libreria)** — Herramienta utilitaria para automatizar la generación de credenciales escolares.
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=B22222&height=50&text=🌟%20Mis%20Intereses&fontSize=22&fontAlign=center&fontAlignY=65&fontColor=ffffff" alt="Intereses" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b1055,30:4d194e,65:0b2545,100:050814&height=15" width="100%" alt="Footer Neón" />
+  <p><sub>Construido con foco en fundamentos y código práctico.</sub></p>
 </div>
-
-<br>
-
-Me apasiona cómo funciona el software "detrás de cámaras":
-
-* ⚙️ **Backend:** Construir lógica de servidor y aprender sobre estructuras de datos.
-* ☕ **Java:** Fortalecer mis bases en Programación Orientada a Objetos.
-* 🎮 **Desarrollo de Videojuegos:** Entender la arquitectura y la lógica detrás de los juegos.
